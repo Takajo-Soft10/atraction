@@ -2,7 +2,7 @@
 <img src="ケーキ.png" width="800" height="100"/>
 **スイーツの世界**<br>
 #コーヒーカップ<br>
-<img src="カップ.png" width="300" height="200"/>
+<img src="カップpng" width="300" height="200"/>
 
 #お菓子の家<br>
 <img src="家.png" width="300" height="200"/>
