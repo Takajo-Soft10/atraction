@@ -1,5 +1,5 @@
 
-<img src="candy.png" width="8000" height="100"/>
+<img src="ケーキ.png" width="8000" height="100"/>
 **スイーツの世界**<br>
 #コーヒーカップ<br>
 <img src="coffee.png" width="300" height="200"/>
