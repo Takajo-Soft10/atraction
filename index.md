@@ -1,6 +1,6 @@
 
 <img src="ケーキ.png" width="800" height="100"/>
-<img src="title.png" width="800" height="200"/>
+
 #コーヒーカップ<br>
 <img src="coffee.png" width="300" height="200"/>
 
