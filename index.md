@@ -1,6 +1,6 @@
 
-<img src="ケーキ.png" width="8000" height="100"/>
-**スイーツの世界**<br>
+<img src="ケーキ.png" width="800" height="100"/>
+<img src="title.png" width="300" height="200"/>
 #コーヒーカップ<br>
 <img src="coffee.png" width="300" height="200"/>
 
