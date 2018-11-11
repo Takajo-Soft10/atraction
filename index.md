@@ -7,7 +7,7 @@
 <br>
 <br>
 <br>
-♡<span style="color: pink; ">お菓子の家</span><br>
+♡<span style="color: red; ">お菓子の家</span><br>
 <img src="家.png" width="300" height="200"/>
 中にいるボスを倒してスイーツ大量ゲットを目指そう！！
 <br>
