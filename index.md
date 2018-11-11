@@ -1,6 +1,7 @@
 
 <img src="ケーキ.png" width="800" height="100"/><br>
-<img src="title2.png" width="700" height="150"/>
+<br>
+<img src="title2.png" width="700" height="150"/><br>
 ♡コーヒーカップ<br>
 <img src="coffee.png" width="300" height="200"/>
 回しすぎ注意
