@@ -4,13 +4,13 @@
 <img src="title2.png" width="700" height="150"/><br>
 <br>
 ♡コーヒーカップ<br>
-<img src="coffee.png" width="300" height="200"/>
+<img src="coffee.png" width="300" height="200"/><br>
 回しすぎ注意
 <br>
 <br>
 <br>
 ♡お菓子の家<br>
-<img src="家.png" width="300" height="200"/>
+<img src="家.png" width="300" height="200"/><br>
 中にいるボスを倒してスイーツ大量ゲットを目指そう！！
 <br>
 <br>
